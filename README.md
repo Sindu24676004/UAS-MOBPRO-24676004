@@ -1,16 +1,27 @@
-# uas_24676004
+# UAS Mobile Programming
 
-A new Flutter project.
+Nama: Sindu  
+NIM: 24676004  
 
-## Getting Started
+## Deskripsi Aplikasi
+Aplikasi manajemen produk berbasis Flutter dengan fitur CRUD menggunakan SQLite, login lokal, session, dan integrasi WhatsApp.
 
-This project is a starting point for a Flutter application.
+## Fitur
+- Splash Screen
+- Login & Session
+- CRUD Produk (SQLite)
+- ListView & GridView
+- Detail Produk
+- Redirect WhatsApp
+- Logout
 
-A few resources to get you started if this is your first Flutter project:
+## Teknologi
+- Flutter
+- Dart
+- SQLite (sqflite)
+- SharedPreferences
+- url_launcher
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cara Menjalankan
+1. flutter pub get
+2. flutter run
